@@ -35,6 +35,24 @@ body {
     position: relative;
 }
 
+/*INICIO DO LOGOWHATS*/
+
+.logowhats{
+    position: fixed;
+    height: 50px;
+    right: 50px;
+    top: 50px;
+    z-index: 100;
+    opacity: .5;
+    transition: .5s;
+}
+
+.logowhats:hover{
+    opacity: 1;
+    transition: .5s;
+}
+
+/*FIM DO LOGOWHATS*/
 
 /*..INICIO DO TOPO..*/
 
